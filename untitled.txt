@@ -1,0 +1,5 @@
+cd /openbayes/home/GCAN++
+pip install albumentations
+pip install torchmetrics
+pip install pytorch_warmup
+python run.py
