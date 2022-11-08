@@ -1,6 +1,8 @@
 # Task_Adaptive_Network
-![The generation process of mixed degradation factors dataset](fig5.png)
+
 The code of generating dataset with mix degradation factors and training Task Adaptive Network .
+
+![The generation process of mixed degradation factors dataset](fig5.png)
 
 We construct a mixed degradation factors dataset that combines three degradation factors of rain, haze, and raindrop. And to deal with this problem, We propose a task-adaptive attention module to enable the network to restore images with multiple degradation factors. 
 
